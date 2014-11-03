@@ -1,3 +1,6 @@
+This repository is now obsolete.
+The content has been integrated in https://github.com/DBuildService/dbs-server.
+
 Build service for dbs
 =====================
 
